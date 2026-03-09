@@ -1,4 +1,5 @@
 
+<img width="1536" height="1024" alt="ChatGPT Image Mar 9, 2026, 05_13_02 AM" src="https://github.com/user-attachments/assets/e3b45714-ba11-4c6b-8596-7b50526c5958" />
 
 
 # Ship Detection from Satellite Imagery using Deep Learning
