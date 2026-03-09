@@ -23,3 +23,7 @@ Such technology can support several real-world applications, including:
 • Supply chain and logistics monitoring
 
 By combining satellite imagery with deep learning, this project aims to make ship detection faster, smarter, and more scalable.
+
+
+## Dataset
+The dateset can be found from kaggle or with the link attached : - https://www.kaggle.com/rhammell/ships-in-satellite-imagery
